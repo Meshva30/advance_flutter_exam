@@ -1,16 +1,9 @@
-# advance_flutter_exam
+# News App
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Meshva30/advance_flutter_exam/assets/136339359/0301d9aa-c58a-402c-aa87-6da578898f55" width=240>
+<img src ="https://github.com/Meshva30/advance_flutter_exam/assets/136339359/0dbdb608-507d-4855-9f43-3ca76a329acd" width=240>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video
+https://github.com/Meshva30/advance_flutter_exam/assets/136339359/c36c3dfd-569e-4f68-8e99-e743fc398cc6
